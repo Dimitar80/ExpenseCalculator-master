@@ -8,8 +8,9 @@ html,body {
 
 .box-container {
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
+    /* align-content: center; */
     flex-wrap: wrap;
     background-color: #fff;
     border-radius: 10px;

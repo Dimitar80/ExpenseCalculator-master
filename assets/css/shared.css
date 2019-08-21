@@ -10,9 +10,9 @@
     flex-wrap: wrap;
 };
 
-form {
+/* form {
    background-color: #fff;
-}
+} */
 
 /* box-container*/
 /* .box-container {
@@ -52,6 +52,7 @@ form {
     border-radius: 5px;
     display: inline-block;
     flex-wrap: wrap;
+    text-align:center;
     
     /* flex: 1; */
 }
