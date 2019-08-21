@@ -19,6 +19,7 @@ html,body {
     padding-bottom: 55px;
     padding-left: 15px;
     padding-right: 15px;
+    overflow: auto;
     /* flex-basis: 0; */
 }
 

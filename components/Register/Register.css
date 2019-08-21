@@ -22,8 +22,14 @@ html,body {
     padding-right: 15px;
     margin-top: 25px;
     margin-bottom: 25px;
+    overflow: auto;
     /* flex-basis: 0; */
 }
+
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+  }
 
 .additional-info {
     display: flex;
