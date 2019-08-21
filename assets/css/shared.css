@@ -27,15 +27,13 @@ form {
     overflow: auto;
 }
 
-
-
 /* label */
 .text-field-input {
     width: 100%;
     font-size: 18px;
     color: #8d8d8d;
-    margin-top: 8px;
-    margin-bottom: 5px;
+    margin-top: 2px;
+    margin-bottom: 6px;
     display: inline-block;
 }
 
@@ -53,8 +51,6 @@ form {
     text-align:center;
 }
 
-
-
 /* button */
 .primary-button {
     width: 100%;
@@ -71,14 +67,17 @@ form {
     /* outline: none; */
 }
 
-.additional-info, p, a {
-     display: flex;
+.additional-info {
+    display: flex;
     align-items: center; 
     justify-content: center;
     flex-wrap: wrap; 
     width: 100%;
     color: #8d8d8d;
     font-size:18px;
+}
+.additional-info a {
+    color: #8d8d8d;
 }
 
 
