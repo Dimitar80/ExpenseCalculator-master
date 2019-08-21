@@ -10,26 +10,11 @@
     flex-wrap: wrap;
 };
 
-/* form {
+form {
    background-color: #fff;
-} */
+}
 
-/* box-container*/
-/* .box-container {
-    display: flex; */
-    /* align-items: center; */
-    /* justify-content: center;
-    flex-wrap: wrap;
-    background-color: #fff;
-    border-radius: 10px;
-    width: 25%; */
-    /* height: 100%; */
-    /* padding-top: 30px;
-    padding-bottom: 55px;
-    padding-left: 15px;
-    padding-right: 15px; */
-    /* flex-basis: 0; */
-/* } */
+
 
 /* label */
 .text-field-input {
