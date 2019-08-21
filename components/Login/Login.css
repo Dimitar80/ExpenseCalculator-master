@@ -7,18 +7,6 @@ html,body {
     overflow: hidden;
 }
 
-.box-container {
-    display: flex;
-    /* align-items: center; */
-    justify-content: center;
-    flex-wrap: wrap;
-    background-color: #fff;
-    border-radius: 10px;
-    width: 25%;
-    /* height: 100%; */
-    padding: 30px 15px 55px 15px;
-    overflow: auto;
-}
 
 
 
