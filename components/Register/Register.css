@@ -4,7 +4,7 @@ html,body {
     margin: 0px;
     font-family: 'Roboto', sans-serif;
     background-color: #E5EDF5;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 
 .box-container {
